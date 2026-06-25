@@ -10,6 +10,12 @@ A pipeline to build a structured XML corpus of decisions by the German Federal C
 
 The pipeline downloads decision pages from the BVerfG website, parses the HTML, extracts and annotates the text, and serialises each decision as an XML document.
 
+#### Code and Dataset on Zenodo
+
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.20846395.svg)](https://doi.org/10.5281/zenodo.20846395)
+
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.20829653.svg)](https://doi.org/10.5281/zenodo.20829653)
+
 ## Continuation of Existing Dataset
 
 This corpus extends the work of Luisa Wendel and Christoph Möllers (2023):
