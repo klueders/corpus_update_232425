@@ -1,0 +1,217 @@
+eschwerde(.*?)(ist|sind)(.*?)(((un)?zulässig)|(auch )?(nicht |un)?begründet|rechtzeitig|verspätet)|
+
+Die Verfassungsbeschwerde hat(.*?)(Erfolg|erledigt)|
+
+(V|v)orlage(.*?)(ist|sind)(.*?) (un)?zulässig|
+
+Die Verfassungsbeschwerde war(.*?) nicht zur Entscheidung anzunehmen|
+
+Die Voraussetzungen für (die|eine) Annahme der Verfassungsbeschwerde(.*?) liegen nicht vor|
+
+Verfassungsbeschwerde kann nicht(.*?) zur Entscheidung angenommen werden|
+
+Organklage(.*?)(ist|sind)(.*?) (un)?zulässig|
+
+(ntrag|nträge)(.*?)(ist|sind|kann)(.*?)(((un)?zulässig)|(auch )?(nicht |un)?begründet|keinen Erfolg haben)|
+
+verletz(t|en) Grundrechte (des|der) Beschwerdeführer|
+
+verstößt( nicht)? gegen (Art|Grundrechte)|
+
+(ist|sind)(.*?)(vereinbar|nichtig|gültig)|
+
+Die einstweilige Anordnung (.*?) wird (nicht )?wiederholt|
+
+§ 32(.*?) BVerfGG kann das Bundesverfassungsgericht|
+
+läßt nicht aus sich heraus(.*?) erkennen, da(ß|ss)|
+
+haben die Beschwerdeführer nicht hinreichend substantiiert dargelegt|
+
+Zulässigkeit(.*?) kann dahingestellt bleiben|
+
+Zulässigkeit(.*?) bestehen keine Bedenken|
+
+Der Auffassung des vorlegenden Gerichts kann nicht gefolgt werden|
+
+ist der Senat(.*?)berufen|
+
+ist der nach §(.*?)BVerfGG(.*?)Ausschuß berufen|
+
+Vorlagefrage ist(.*?) zu beschränken|
+
+Gegenstand(.*?) ist zu erweitern|
+
+Antragsteller(.*?)(hat|haben)(.*?)zurückgenommen|
+
+Richter(.*?) ist(.*?) ausgeschlossen|
+
+ist von der Mitwirkung(.*?) ausgeschlossen|
+
+Das Verfahren kann nicht fortgeführt werden|
+
+macht das Bundesverfassungsgericht von der durch § 32 BVerfGG eröffneten Möglichkeit Gebrauch, ohne mündliche Verhandlung und ohne Anhörung|
+
+Diese Entscheidung beschränkt sich auf die Prüfung|
+
+kann dahinstehen, ob die Vorlage zulässig ist|
+
+Vorlage zulässig ist, mag dahinstehen|
+
+könnte die beantragte einstweilige Anordnung(.*?) erlassen werden|
+
+Antragsteller treten als ein Drittel der Mitglieder des Bundestages|
+
+ist das Bundesverfassungsgericht nicht befugt|
+
+Der Rechtsweg zum Bundesverfassungsgericht ist gegeben|
+
+Die Verfassungsbeschwerden stimmen, was ihr tatsächliches Vorbringen angeht, im wesentlichen überein|
+
+Die Bundesregierung hat erklärt, da(ß|ss) sie de(m|n) Verfahren beitrete|
+
+eröffnet den Verfassungsgerichten der Länder die Möglichkeit|
+
+Dieses Urteil beschränkt sich auf|
+
+wenn feststeht, daß diese Vorschrift Landesrecht ist|
+
+Der Widerspruch ist (un)?zulässig|
+
+verkennt das Wesen der Verfassungsbeschwerde|
+
+Art(.*?) GG verlangt
+
+Dem Antrag auf.*? bleiben.*? der Erfolg versagt|
+
+Die Annahmevoraussetzungen.*? liegen nicht vor|
+
+(Gründe|Voraussetzungen) für (die|eine) Annahme der Verfassungsbeschwerde.*? liegen nicht vor|
+
+Die Verfassungsbeschwerde(n)? (werden|wird).*?nicht zur Entscheidung angenommen|
+
+Die Verfassungsbeschwerde.*?(ist|war|sind|waren) nicht zur Entscheidung anzunehmen|
+
+steht ihrer Annahme .*? entgegen|
+
+Die Kammer ist für die Entscheidung zuständig|
+
+Das vorlegende Gericht hat seinen Antrag, durch den das Verfahren eingeleitet wurde, zurückgenommen|
+
+Der.*?Antrag.*?hat( keinen)? Erfolg|
+
+Nach § 32 Abs. 1 BVerfGG kann das Bundesverfassungsgericht im Streitfall einen Zustand durch einstweilige Anordnung vorläufig regeln|
+
+wenn sich das in der Hauptsache zu verfolgende Begehren als unzulässig oder offensichtlich unbegründet|
+
+(Antrag|Ablehnungsgesuch|Verfassungsbeschwerde|Vorlage|Nichtanerkennungsbeschwerde).*?(ist|sind).*?(unzulässig|nicht begründet|nur zulässig|zulässig|zu verwerfen|abzulehnen|zurückzuweisen)|
+
+Der Zulässigkeit.*?steht.*?entgegen|
+
+ist nicht zu erlassen|
+
+Die Kammer nimmt die Verfassungsbeschwerde(n)?(.*?) zur Entscheidung an|
+
+ist zur Entscheidung anzunehmen|
+
+Soweit.*? Verfassungsbeschwerde.*? zur Entscheidung (anzunehmen|angenommen)|
+
+nimmt die Kammer.*?zur Entscheidung an|
+
+zur Durchsetzung .*?( § 90 Abs. 1 BVerfGG|Grundrecht.*?|GG).*? angezeigt|
+
+Die Voraussetzungen für eine stattgebende Kammerentscheidung sind gegeben|
+
+ist.*?nicht mehr zu entscheiden|
+
+Über die Folgen des Todes.*?lässt sich mangels einer gesetzlichen Regelung.*?entscheiden|
+
+Die Antragsteller haben mit Schreiben vom .*?ihren Antrag zurückgenommen|
+
+richtet sich bei verständiger Würdigung des mit ihr verfolgten Rechtsschutzzieles|
+
+Verfahren (ist|sind) einzustellen|
+
+Wahlprüfungsbeschwerde.+? bleibt aus den.*?Gründen der Erfolg versagt|
+
+Wahlprüfungsbeschwerde hat sich.+? erledigt|
+
+(Antrag|Anträge).*?(ist|sind) abzulehnen|
+
+da sie keine Aussicht auf Erfolg hat|
+
+Die Vorlage ist unzulässig|
+
+Annahmegründe.*?sind nicht gegeben|
+
+(wird|werden).*?nicht zur Entscheidung angenommen|
+
+Verfassungsbeschwerde fehlt .*? die hinreichende Aussicht auf Erfolg|
+
+Voraussetzungen für die Annahme.*?liegen nicht vor|
+
+ist.*?nicht zur Entscheidung anzunehmen|
+
+beruht nicht auf einer grundsätzlich unrichtigen Anschauung|
+
+verfassungsrechtlichen Grenzen.*?nicht überschritten|
+
+wird.*?zur Entscheidung angenommen|
+
+Die Kammer gibt der Verfassungsbeschwerde statt|
+
+Die Kammer nimmt die Verfassungsbeschwerde.*?zur Entscheidung an|
+
+Annahme der Verfassungsbeschwerde ist.*?angezeigt|
+
+Angenommen werden muß eine Verfassungsbeschwerde immer dann, wenn ihr grundsätzliche verfassungsrechtliche Bedeutung zukommt|
+
+Über die Erstattung der.*?entstandenen Auslagen hat.*?die Kammer zu entscheiden|
+
+ist nur noch nach Billigkeit.*?zu entscheiden|
+
+ist der Gegenstandswert.*?nach billigem Ermessen zu bestimmen|
+
+sind.*?Auslagen.*?zu erstatten|
+
+Das Ablehnungsgesuch.*?ist.*?((un)?(zulässig|begründet))|
+
+Die Selbstablehnung.?ist.*?((un)?(zulässig|begründet))|
+
+wird die einstweilige Anordnung.*?wiederholt|
+
+Der Beitritt des Deutschen Bundestages ist unzulässig|
+
+Wahlprüfungsbeschwerde bleibt.*? der Erfolg versagt|
+
+Beschwerdeführer.*? haben die Wahlprüfungsbeschwerde zurückgenommen|
+
+Beschwerdeführer hält.*? nur noch teilweise an den.*?Rügen fest|
+
+Ob der Organklageantrag zulässig ist, kann offen bleiben|
+
+Die Anträge auf Erlass einer einstweiligen Anordnung haben keinen Erfolg|
+
+Der Antrag auf Erlass einer einstweiligen Anordnung bleibt ohne Erfolg|
+
+Entscheidung ist unanfechtbar|
+
+Diesen Anforderungen genügt die Antragsbegründung nicht|
+
+Der Erlass der von der Antragstellerin beantragten einstweiligen Anordnung kommt nicht in Betracht|
+
+Die.*? einstweilige Anordnung war.*? zu wiederholen|
+
+Die zulässige Verzögerungsrüge ist teilweise begründet|
+
+Antrag auf Wiedereinsetzung.*? bleiben.+? der Erfolg versagt|
+
+Dies ist vorliegend der Fall|
+
+Der Antrag auf Festsetzung des Gegenstandswerts wird verworfen|
+
+Hier ist allerdings die Erledigung des Verfahrens auszusprechen|
+
+Das Ruhen des Verfahrens ist.*? anzuordnen|
+
+Danach war der Gegenstandswert für das Verfassungsbeschwerdeverfahren auf.*?festzusetzen

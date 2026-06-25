@@ -1,0 +1,1 @@
+(ist|betrifft) die Frage, ob|hat(.*?) für unzulässig erklärt
